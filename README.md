@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Azaz Hassan Khan
-- 👀 I’m Currently doing Electrical Engineering From University of Engineering and Technology Peshawar.
-- 📫 How to reach me: 18jzele0262@uetpeshawar.edu.pk
+- 👀 Electrical Engineer
+- 📫 How to reach me: azazhassankhan2@gmail.com
 
 <!---
 AzazHassankhan/AzazHassankhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
