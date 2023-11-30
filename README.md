@@ -2,7 +2,7 @@
 **Electrical & IT Engineer | Embedded Systems | Microelectronics | Machine Learning**
 
 ### 🌟 About Me
-I'm an Electrical and IT Engineer with a strong foundation in embedded systems, microelectronics, and a deep appreciation for the transformative power of machine learning. My career is driven by a fascination with the synergy between hardware and software, and how the integration of machine learning can supercharge these systems to create intelligent solutions that adapt and evolve. Whether it's designing intricate embedded systems, delving into the intricacies of microelectronics, or harnessing the capabilities of machine learning, I thrive on exploring the vast potential of technology.
+I'm an Electrical & IT Engineer with a strong foundation in embedded systems, microelectronics, and a deep appreciation for the transformative power of machine learning. My career is driven by a fascination with the synergy between hardware and software, and how the integration of machine learning can supercharge these systems to create intelligent solutions that adapt and evolve. Whether it's designing intricate embedded systems, delving into the intricacies of microelectronics, or harnessing the capabilities of machine learning, I thrive on exploring the vast potential of technology.
 
 ### 📚 PUBLICATIONS 📚
 
