@@ -8,9 +8,9 @@ I'm an Electrical & IT Engineer with a strong foundation in embedded systems, mi
 
 **Dive into my recent publications with a dash of excitement:**
 
-**1.** Khan AH, et al. (2023) "A performance comparison of machine learning models for stock market prediction with novel investment strategy" - Published in PLOS ONE, Volume 18, Issue 9. https://doi.org/10.1371/journal.pone.0286362
+**1.** **Khan AH**, et al. (2023) "A performance comparison of machine learning models for stock market prediction with novel investment strategy" - Published in PLOS ONE, Volume 18, Issue 9. https://doi.org/10.1371/journal.pone.0286362
 
-**2.** "Speed vs. Efficiency: A Framework for High-Frequency Trading Algorithms on FPGA using Zynq SoC Platform." (Currently Underreview)
+**2.** Abbas Ali, Abdullah Shah, **Khan AH**, et al. (2024) "Speed vs. efficiency: A framework for high-frequency trading algorithms on FPGA using Zynq SoC platform" Published in Alexandria Engineering Journal, Volume 96, ISSN 1110-0168, https://doi.org/10.1016/j.aej.2024.03.064.
 
 **3.** "High-Performance FPGA Architectures for Low-Latency Machine Learning Models in Stock Market Prediction: An In-Depth Complexity Analysis." (Currenlty reviewing)
 
